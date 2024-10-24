@@ -95,4 +95,3 @@ Lembre-se: Juntos podemos fazer a diferença!>
     <script src="script.js"></script>
 </body>
 </html>
-![desenvolvimento sustentavel](https://github.com/user-attachments/assets/77b63a98-a7b9-4ab5-85ee-31b8f08d6590)
