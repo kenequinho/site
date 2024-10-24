@@ -92,6 +92,6 @@ Lembre-se: Juntos podemos fazer a diferença!>
     <footer>
         <p>&copy; 2024 Desenvolvimento Sustentável</p>
     </footer>
-    <script src="script.js"></script>
+   
 </body>
 </html>
