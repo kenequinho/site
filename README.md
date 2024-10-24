@@ -12,10 +12,6 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#objetivo1">Objetivo 1</a></li>
-            <li><a href="#objetivo2">Objetivo 2</a></li>
-            <li><a href="#objetivo3">Objetivo 3</a></li>
-            <!-- Adicione mais links para outros ODS conforme necessário -->
         </ul>
     </nav>
     <main>
