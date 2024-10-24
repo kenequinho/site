@@ -37,122 +37,35 @@
                 <p>Iniciativas para promover a agricultura sustentável.</p>
                 <p>Como organizações internacionais estão atuando nesse âmbito.</p>
             </article>
-            <!-- Continue adicionando artigos para os outros ODS -->
+        <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Desenvolvimento Sustentável</title>
+</head>
+<body>
+    <header>
+        <h1>Desenvolvimento Sustentável</h1>
+    </header>
+    <main>
+        <section>
+            <h2>O que é?</h2>
+            <p>Texto explicativo sobre desenvolvimento sustentável.</p>
         </section>
         <section>
-            <h2>Detalhamento Interativo dos ODS</h2>
-            <div class="accordion">
-                <button class="accordion-button">Objetivo 1: Erradicação da Pobreza</button>
-                <div class="accordion-content">
-                    <p>Descrição do objetivo e ações para erradicar a pobreza.</p>
-                </div>
-                <button class="accordion-button">Objetivo 2: Fome Zero e Agricultura Sustentável</button>
-                <div class="accordion-content">
-                    <p>Descrição do objetivo e ações para combater a fome.</p>
-                </div>
-                <!-- Continue adicionando botões e conteúdos para outros ODS -->
-            </div>
+            <h2>Dicas Práticas</h2>
+            <ul>
+                <li>Utilize transporte sustentável.</li>
+                <li>Reduza o consumo de plástico.</li>
+                <li>Adote energias renováveis.</li>
+            </ul>
         </section>
     </main>
     <footer>
-        <p>Informações adicionais, créditos e links úteis.</p>
+        <p>&copy; 2024 Desenvolvimento Sustentável</p>
     </footer>
-    <script>
-        // Script para funcionalidade do accordion
-        const accordions = document.querySelectorAll('.accordion-button');
-        accordions.forEach(button => {
-            button.addEventListener('click', () => {
-                const content = button.nextElementSibling;
-                content.style.display = content.style.display === 'block' ? 'none' : 'block';
-            });
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
-/* Estilos básicos para o corpo */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-}
-
-/* Estilo do cabeçalho */
-header {
-    background-color: #4CAF50;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-}
-
-/* Estilo da barra de navegação */
-nav {
-    background-color: #333;
-    overflow: hidden;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav ul li {
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    padding: 14px 20px;
-    display: block;
-}
-
-/* Estilo para as seções */
-section {
-    padding: 20px;
-    margin: 10px;
-    background: white;
-    border-radius: 8px;
-}
-
-/* Estilo do rodapé */
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-/* Estilos para o accordion */
-.accordion-button {
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 15px;
-    text-align: left;
-    width: 100%;
-    cursor: pointer;
-    outline: none;
-    transition: background-color 0.4s;
-    margin-top: 10px;
-    border-radius: 4px;
-}
-
-accordion-button:hover {
-    background-color: #45a049;
-}
-
-accordion-content {
-    display: none;
-    padding: 15px;
-    background-color: #f9f9f9;
-    border-radius: 4px;
-    margin-top: 5px;
-}# site
