@@ -95,7 +95,3 @@ Lembre-se: Juntos podemos fazer a diferença!>
     <script src="script.js"></script>
 </body>
 </html>
-link para os ODS |
-                 V
-
-https://cdn.prod.website-files.com/5e3dab93884abc0b719715a8/5f7fd139cfc9e264d38747b4_Objetivos%20de%20Desenvolvimento%20Sustenta%CC%81vel%20(ODS)%20da%20ONU-tudo%20o%20que%20voce%CC%82%20precisa%20saber.jpg
