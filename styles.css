@@ -1,0 +1,21 @@
+/seu-repositorio
+  ├── index.html
+  ├── styles.css
+  ├── script.js
+  └── /imagens
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+section {
+    margin-bottom: 20px;
+}
